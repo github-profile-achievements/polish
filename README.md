@@ -1,5 +1,5 @@
-<!-- Translated by Adam Perkowski
-https://adamperkowski.github.io -->
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
 
 # Pełna lista wszystkich odznak i osiągnięć Profilu GitHub 
 
